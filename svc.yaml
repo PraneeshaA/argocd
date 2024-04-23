@@ -3,7 +3,7 @@ kind: Service
 metadata:
   labels:
     app: praneesha-deploy
-  name: prod-svc
+  name: praneesha-svc
   #namespace: pet
 spec:
   ports:
